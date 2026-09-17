@@ -46,7 +46,7 @@
 ##  **Get In Touch**
 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:yadavdipendra90078@gmail.com)](mailto:yadavdipendra90078@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://linkedin.com/in/dipendra-kumar-yadav)](https://linkedin.com/in/dipendra-kumar-yadav)
+[![LinkedIn](www.linkedin.com/in/dipendrayadav07)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/Dipendra-78)](https://github.com/Dipendra-78)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://dipendra-portfolio.vercel.app)
 
